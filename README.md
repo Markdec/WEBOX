@@ -1,4 +1,4 @@
-<header>
+<WE.BOX>
 
 <!--
   <<< Author notes: Course header >>>
@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# GitHub Pages
+# WE BOX
 
 _Create a site or blog from your GitHub repositories with GitHub Pages._
 
